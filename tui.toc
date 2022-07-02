@@ -1,0 +1,21 @@
+## Interface: 90205
+## Title: |cff00ff00t|r|cff009cffui|r
+## Author: xHoaxDreamx, Signal-Proudmoore
+## Version: 9.2.5
+## Notes: Lightweight modification of blizzardUI
+
+# modules
+v\actionbar.lua
+v\alert.lua
+v\autosellrepair.lua
+v\chatcopy.lua
+v\cvar.lua
+v\easydelete.lua
+v\friendlyplate.lua
+v\mapcoordinates.lua
+v\minimap.lua
+v\misc.lua
+v\personalresource.lua
+v\talkinghead.lua
+v\tooltip.lua
+v\unitframe.lua
