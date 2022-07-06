@@ -1,0 +1,16 @@
+<Ui xmlns='http://www.blizzard.com/wow/ui'>
+    <Include file='actionbar.lua'/>
+    <Include file='alert.lua'/>
+    <Include file='autosellrepair.lua'/>
+    <Include file='chatcopy.lua'/>
+    <Include file='cvar.lua'/>
+    <Include file='easydelete.lua'/>
+    <Include file='friendlyplate.lua'/>
+    <Include file='mapcoordinates.lua'/>
+    <Include file='minimap.lua'/>
+    <Include file='misc.lua'/>
+    <Include file='personalresource.lua'/>
+    <Include file='talkinghead.lua'/>
+    <Include file='tooltip.lua'/>
+    <Include file='unitframe.lua'/>
+</Ui>

@@ -1,9 +1,9 @@
 -- Main actionbar artwork
-MainMenuBarArtFrame.LeftEndCap:Hide()
-MainMenuBarArtFrame.RightEndCap:Hide()
-MainMenuBarArtFrame.PageNumber:Hide()
-MainMenuBarArtFrameBackground.BackgroundSmall:SetAlpha(0)
-MainMenuBarArtFrameBackground.BackgroundLarge:SetAlpha(0)
+--MainMenuBarArtFrame.LeftEndCap:Hide()
+--MainMenuBarArtFrame.RightEndCap:Hide()
+--MainMenuBarArtFrame.PageNumber:Hide()
+--MainMenuBarArtFrameBackground.BackgroundSmall:SetAlpha(0)
+--MainMenuBarArtFrameBackground.BackgroundLarge:SetAlpha(0)
 
 -- Auto add spell in actionbar
 IconIntroTracker.RegisterEvent = function() end

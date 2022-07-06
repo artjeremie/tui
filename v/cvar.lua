@@ -31,5 +31,5 @@ tui:SetScript("OnEvent", function(self, event)
     -- Prd alpha when out of combat, blizz default = 0.45
     SetCVar("NameplatePersonalHideDelayAlpha", 0.1)
     -- Show lua errors, blizz default = 0
-    SetCVar("scriptErrors", 0)
+    SetCVar("scriptErrors", 1)
 end)
